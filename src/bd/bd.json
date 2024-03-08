@@ -1,0 +1,36 @@
+{
+  "users":
+  [
+    {
+      "username": "tmason",
+      "sex": "F",
+      "address": "26839 Snyder Street Suite 499, Port Amy, MI 89836",
+      "name": "Amy Anderson",
+      "email": "ajohnson@yahoo.com",
+      "birthday": "1992-05-11"
+    },
+    {
+      "username": "cgraham",
+      "sex": "F",
+      "address": "085 Melissa Lakes Suite 180, Lisaburgh, SC 49823",
+      "name": "Gloria Gardner",
+      "email": "lucasamber@yahoo.com",
+      "birthday": "1920-02-23"
+    },
+    {
+      "username": "younganthony",
+      "sex": "F",
+      "address": "796 Benjamin Mission Suite 804, West Michael, MA 89725",
+      "name": "Joy Jensen",
+      "email": "justinwilliams@hotmail.com",
+      "birthday": "1935-10-01"
+    },
+    {
+      "username": "karen72",
+      "sex": "F",
+      "address": "Unit 0357 Box 4937, DPO AE 97916",
+      "name": "Emily Rice",
+      "email": "wilsonbrittney@gmail.com",
+      "birthday": "1936-08-14"
+    }]
+}

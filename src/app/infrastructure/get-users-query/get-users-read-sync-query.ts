@@ -1,5 +1,11 @@
 import {User} from "@/app/features/user/domain/User";
 
-export interface Query <T> {
-    execute: () => T
+const GetUsersReadSyncQuery = {
+        execute: (): Array<User> => [{
+            username: 'Shirvana',
+            name: 'Nirvana',
+            email: 'nshirvana76@gmail.com',
+            birthday: 'Shirakov',
+            image: undefined
+        }]
 }
