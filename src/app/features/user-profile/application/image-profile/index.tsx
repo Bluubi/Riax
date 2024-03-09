@@ -1,4 +1,3 @@
-'use client';
 import Image, {StaticImageData} from "next/image";
 import {MdAddAPhoto} from "react-icons/md";
 

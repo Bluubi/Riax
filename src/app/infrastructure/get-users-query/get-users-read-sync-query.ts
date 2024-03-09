@@ -6,6 +6,6 @@ const GetUsersReadSyncQuery = {
             name: 'Nirvana',
             email: 'nshirvana76@gmail.com',
             birthday: 'Shirakov',
-            image: undefined
+            messages: [{content: '', date: new Date()}]
         }]
 }

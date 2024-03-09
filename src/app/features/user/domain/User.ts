@@ -1,4 +1,4 @@
-import {StaticImageData} from "next/image";
+import {Message} from "@/app/features/message/domain/Message";
 
 export interface User {
     username: string,
@@ -7,5 +7,5 @@ export interface User {
     name: string,
     email: string,
     birthday: string
-    image: StaticImageData | undefined
+    messages: Message[]
 }
